@@ -1,4 +1,3 @@
-# firstMOTest
-Automatest practice project
+# Automatest practice project
 
 This is a test change
